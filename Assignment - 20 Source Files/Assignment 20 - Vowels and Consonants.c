@@ -16,6 +16,9 @@ int main()
     printf("\n  Consonants in the string == %d",cons);
 
     printf("\n\n  Press any key to exit the program.\n\n  ");
+    
+    printf("\n\n  This line is being added to this file to understand the working of git commit stages. <ignore>");
+    
     getch();
     return(0);
 }
